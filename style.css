@@ -1,0 +1,33 @@
+:root{
+    color-scheme: light dark;
+}
+
+body{
+    display: grid;
+    place-content: center;
+}
+
+h2{
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+img{
+    margin: 0 auto;
+    width: 200;
+    border-radius: 16px;
+    box-shadow: 0px 0px 15px black;
+}
+
+section{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+hgroup{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
