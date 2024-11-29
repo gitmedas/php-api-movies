@@ -60,12 +60,3 @@ curl_close($ch);
 
 </main>
 
-
-
-
-<!-- ESTILOS -->
-<style>
-
-
-
-</style>
